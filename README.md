@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I'm a huge Sci-fi fanatic**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
