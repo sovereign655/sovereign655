@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **conroy.pro@gmail.com**
 
-- ⚡ Fun fact **I'm a huge Sci-fi fanatic**
+- ⚡ Fun fact **I'm a huge Sci-fi fan**
 
 <p align="left">
 </p>
