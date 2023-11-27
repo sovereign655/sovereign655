@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://github.com/TheOdinProject | https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **NoodeJS & C# .Net**
+- 🌱 I’m currently learning **NodeJS & C# .Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sovereign655?tab=repositories](https://github.com/sovereign655?tab=repositories)
 
