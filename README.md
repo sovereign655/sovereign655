@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Conroy McDonald (Alias: Sovereign655)</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-
+<h1 align="center">Hi 👋 Sovereign655</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sovereign655&label=Profile%20views&color=0e75b6&style=flat" alt="sovereign655" /> </p>
-
-- 🔭 I’m currently working on [The Odin Project](https://github.com/TheOdinProject | https://www.theodinproject.com/)
-
-- 🌱 I’m currently learning **NodeJS & C# .Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sovereign655?tab=repositories](https://github.com/sovereign655?tab=repositories)
 
 - 💬 Ask me about **how i stay motivated**
-
-- 📫 How to reach me **conroy.pro@gmail.com**
 
 - ⚡ Fun fact **I'm a huge Sci-fi fan**
 
