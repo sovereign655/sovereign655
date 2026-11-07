@@ -25,9 +25,3 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sovereign655&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
